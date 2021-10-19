@@ -1,0 +1,1 @@
+--Показать и отсортировать в обратном алфавитном порядке все уникальные значения поля CultureID из таблицы Production.ProductModelProductDescriptionCulture.
