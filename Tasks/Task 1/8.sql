@@ -2,4 +2,4 @@
 SELECT ProductID
      , [Name]
      , COALESCE(SellEndDate, DiscontinuedDate, GETDATE()) AS LastDate
-FROM Production.Product
+FROM Production.Product;

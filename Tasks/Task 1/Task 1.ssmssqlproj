@@ -25,6 +25,12 @@
           <AssociatedConnUserName />
           <FullPath>1.sql</FullPath>
         </FileNode>
+        <FileNode Name="10.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-2ALR8J1J\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-2ALR8J1J\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>10.sql</FullPath>
+        </FileNode>
         <FileNode Name="2.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-2ALR8J1J\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>LAPTOP-2ALR8J1J\SQLEXPRESS</AssociatedConnSrvName>
@@ -72,6 +78,12 @@
           <AssociatedConnSrvName>LAPTOP-2ALR8J1J\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>9.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DataTypes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-2ALR8J1J\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-2ALR8J1J\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DataTypes.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
