@@ -54,3 +54,11 @@ SELECT NTILE(5) OVER (ORDER BY Size) N
      , Size
 FROM Production.Product
 WHERE ListPrice >0 AND [Weight] IS NOT NULL AND Size IS NOT NULL;
+
+--Показать наименование товара, цену и цвет. Разбить ответ на 6 равных частей, упорядочив по возрастанию цены.
+SELECT NTILE(6) OVER (ORDER BY ListPrice) N
+     , [Name]
+     , ListPrice
+     , Color
+FROM Production.Product
+WHERE ListPrice >0 AND Color IS NOT NULL;
