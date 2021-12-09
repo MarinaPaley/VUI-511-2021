@@ -11,16 +11,19 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Task 3", "Task 3\Task 3.ssm
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Task 4", "Task 4\Task 4.ssmssqlproj", "{79868CD8-79FA-4139-81CC-78D9AEFAECDC}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "CourseWork", "CourseWork\CourseWork.ssmssqlproj", "{349F68FA-8364-45D8-A70D-C62E0D241B7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{91D77A08-82E9-422A-B621-5B083D0512A9}.Default|Default.ActiveCfg = Default
-		{3B9FE8EF-6726-42D5-81A8-4ECC70FB7961}.Default|Default.ActiveCfg = Default
 		{1E8B83CF-A2CC-4FCC-9301-3D463F16FDEE}.Default|Default.ActiveCfg = Default
 		{47599780-43D4-4C08-BBF9-A1AFC02CCA5A}.Default|Default.ActiveCfg = Default
 		{79868CD8-79FA-4139-81CC-78D9AEFAECDC}.Default|Default.ActiveCfg = Default
+		{B1FEA3EE-547F-4BA3-A189-BC3CF9ACDF7D}.Default|Default.ActiveCfg = Default
+		{349F68FA-8364-45D8-A70D-C62E0D241B7A}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
