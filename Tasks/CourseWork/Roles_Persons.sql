@@ -1,0 +1,6 @@
+CREATE TABLE Persons_Roles
+(
+    ID INT PRIMARY KEY
+  , ID_Role INT FOREIGN KEY REFERENCES Roles(ID) 
+  , ID_Person INT FOREIGN KEY REFERENCES Persons (ID)
+);
