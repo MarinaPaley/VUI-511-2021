@@ -25,6 +25,24 @@
           <AssociatedConnUserName />
           <FullPath>Create DB.sql</FullPath>
         </FileNode>
+        <FileNode Name="INSERT Role_Persons.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-2ALR8J1J\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-2ALR8J1J\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>INSERT Role_Persons.sql</FullPath>
+        </FileNode>
+        <FileNode Name="INSERT_Persons.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-2ALR8J1J\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-2ALR8J1J\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>INSERT_Persons.sql</FullPath>
+        </FileNode>
+        <FileNode Name="INSERT_Role.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-2ALR8J1J\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-2ALR8J1J\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>INSERT_Role.sql</FullPath>
+        </FileNode>
         <FileNode Name="Persons.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-2ALR8J1J\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>LAPTOP-2ALR8J1J\SQLEXPRESS</AssociatedConnSrvName>
@@ -36,6 +54,12 @@
           <AssociatedConnSrvName>LAPTOP-2ALR8J1J\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Role.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Roles_Persons.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-2ALR8J1J\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-2ALR8J1J\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Roles_Persons.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
